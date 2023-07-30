@@ -1,4 +1,4 @@
-# Time Series Features for Human Activity Monitoring
+# Time Series Analysis on Human Activity Monitoring
 This repository contains the implementation of a system for extracting time series features for human activity monitoring, along with visualizations for different activities and body parts for 15 individuals.
 
 ### <a href='https://www.uni-mannheim.de/dws/research/projects/activity-recognition/#dataset_realworld'> Dataset</a>
